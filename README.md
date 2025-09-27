@@ -6,7 +6,7 @@ Debian es una de las distribuciones más antiguas, creada en 1993 por Ian Murdoc
 
 Arch Linux, lanzado en 2002, es muy diferente. Es una distribución minimalista que parte de lo básico y le da al usuario la libertad de configurar absolutamente todo. Está pensada para personas con experiencia, ya que no es sencilla de instalar ni de manejar al principio. Sin embargo, ofrece mucha flexibilidad y tiene una documentación muy completa llamada Arch Wiki, que sirve de apoyo incluso a usuarios de otras distribuciones.
 
-En contraste, Linux Mint, nacida en 2006, está enfocada en la facilidad de uso. Su objetivo es hacer que las personas que vienen de Windows se sientan cómodas en Linux. Por eso ofrece escritorios clásicos como Cinnamon o XFCE, y viene lista para reproducir videos y música sin necesidad de instalar programas adicionales. Es ideal para quienes usan el computador en el día a día sin querer complicarse demasiado.
+Linux Mint, nacida en 2006, está enfocada en la facilidad de uso. Su objetivo es hacer que las personas que vienen de Windows se sientan cómodas en Linux. Por eso ofrece escritorios clásicos como Cinnamon o XFCE, y viene lista para reproducir videos y música sin necesidad de instalar programas adicionales. Es ideal para quienes usan el computador en el día a día sin querer complicarse demasiado.
 
 Kali Linux, lanzada en 2013, es una distribución muy distinta porque está diseñada para la seguridad informática. Incluye cientos de herramientas para pruebas de penetración, auditorías y análisis forense. Aunque muchos la ven como la “distro de los hackers”, en realidad es una herramienta profesional usada en empresas de ciberseguridad y en formación académica.
 
