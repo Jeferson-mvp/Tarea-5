@@ -23,3 +23,8 @@ Existen muchos sistemas operativos basados en Linux, cada uno con un objetivo di
 **Ubuntu**, creado en 2004 por Canonical, es probablemente la distribución más conocida en todo el mundo. Está basada en Debian, pero se ha hecho famosa por su facilidad de uso, su gran comunidad y su soporte a largo plazo. Hoy en día se usa en escritorios personales, servidores, servicios en la nube e incluso en proyectos de inteligencia artificial.
 
 **Alpine Linux**, lanzada en 2005. Es una distribución muy ligera y segura, utilizada sobre todo en contenedores Docker y sistemas en la nube. Su instalación base ocupa solo unos pocos megas y está pensada para microservicios o sistemas embebidos, donde se necesita un software muy pequeño pero confiable.
+
+
+***Quemu y VirtManager***
+despues de hacer la instalacion y ekecutar tenemos la siguiente ventana, no tenemos fotos del paso paso, pues fue realizado en clase.
+
