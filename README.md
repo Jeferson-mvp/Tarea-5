@@ -28,3 +28,4 @@ Existen muchos sistemas operativos basados en Linux, cada uno con un objetivo di
 ***Quemu y VirtManager***
 despues de hacer la instalacion y ekecutar tenemos la siguiente ventana, no tenemos fotos del paso paso, pues fue realizado en clase.
 
+<img width="629" height="466" alt="Captura desde 2025-09-22 09-38-27" src="https://github.com/user-attachments/assets/ffba70c3-ee95-43ea-805e-d58dfa6f593d" />
