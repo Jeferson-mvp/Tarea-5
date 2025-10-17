@@ -1,4 +1,4 @@
-***Sistemas Operativos y Herramientas***
+<img width="1409" height="308" alt="image" src="https://github.com/user-attachments/assets/11951f51-5e9f-40d5-9ad2-a8e2e8d2beb6" />***Sistemas Operativos y Herramientas***
 
 Existen muchos sistemas operativos basados en Linux, cada uno con un objetivo diferente. Algunos buscan estabilidad, otros seguridad, y también los hay que se enfocan en la facilidad de uso o en el rendimiento para juegos. A continuación, se presentan algunos de los más conocidos y utilizados en la actualidad.
 
@@ -27,5 +27,6 @@ Existen muchos sistemas operativos basados en Linux, cada uno con un objetivo di
 
 ***Quemu y VirtManager***
 despues de hacer la instalacion y ekecutar tenemos la siguiente ventana, no tenemos fotos del paso paso, pues fue realizado en clase.
+<img width="1409" height="308" alt="Captura desde 2025-10-17 18-10-48" src="https://github.com/user-attachments/assets/42997219-f90b-4d3e-b0b3-0d0805acfa96" />
 
-<img width="629" height="466" alt="Captura desde 2025-09-22 09-38-27" src="https://github.com/user-attachments/assets/ffba70c3-ee95-43ea-805e-d58dfa6f593d" />
+
