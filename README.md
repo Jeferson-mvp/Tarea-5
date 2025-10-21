@@ -1,5 +1,7 @@
 **Sistemas Operativos y Herramientas***
 
+*** Miguel Montana, Jeferson Hernandez, Yossed Riaño***
+
 Existen muchos sistemas operativos basados en Linux, cada uno con un objetivo diferente. Algunos buscan estabilidad, otros seguridad, y también los hay que se enfocan en la facilidad de uso o en el rendimiento para juegos. A continuación, se presentan algunos de los más conocidos y utilizados en la actualidad.
 
 **Debian** es una de las distribuciones más antiguas, creada en 1993 por Ian Murdock. Se caracteriza por ser muy estable y segura, además de contar con uno de los repositorios de software más grandes. Es la base de muchas otras distribuciones como Ubuntu, Kali o Linux Mint. Suele utilizarse en servidores y en investigación, precisamente porque es confiable y no se rompe con facilidad.
