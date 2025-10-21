@@ -27,19 +27,22 @@ Existen muchos sistemas operativos basados en Linux, cada uno con un objetivo di
 
 ***Quemu y VirtManager***
 despues de hacer la instalacion y ejecutar tenemos la siguiente ventana, no tenemos fotos del paso paso, pues fue realizado en clase.
+
 <img width="1409" height="308" alt="Captura desde 2025-10-17 18-10-48" src="https://github.com/user-attachments/assets/42997219-f90b-4d3e-b0b3-0d0805acfa96" />
 
 **inspaeccion de red con nmap**
 es un código abierto para descubrir hosts y servicios en una red. Se usa para: descubrir qué máquinas están activas, qué puertos tienen abiertos, identificar servicios y versiones, detectar el sistema operativo y ejecutar scripts de auditoría
+
 ![nmap1](https://github.com/user-attachments/assets/60cbe43b-5ffe-4758-b9b5-11c65131181a)
 
 **inspaeccion de red con nmap-sn**
 es la opción de Nmap dedicada exclusivamente al descubrimiento de hosts: en lugar de escanear puertos, para determinar qué direcciones IP están  accesibles en un rango. es útil para mapear rápidamente una red antes de realizar escaneos más profundos, reducir la lista de objetivos o generar inventarios.
+
 ![nmap2](https://github.com/user-attachments/assets/3dcdee96-701d-4673-aec5-39e421e63513)
 
 **inspaeccion de red con nmap-sV**
 es la opción de detección de servicios y versiones, en lugar de limitarse a decir qué puertos están abiertos, a cada puerto abierto para identificar el servicio que atiende y, cuando es posible, la versión exacta del software, esto permite detectar rápidamente software desactualizado o vulnerable y enriquecer los inventarios de red.
-![namp3](https://github.com/user-attachments/assets/911e5a57-8516-494a-a827-b878946f5ad9)
+
 ![nmap4](https://github.com/user-attachments/assets/0dbbba2e-84a7-4f8f-aae5-03f24ae2af06)
 
 
