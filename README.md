@@ -1,6 +1,6 @@
 **Sistemas Operativos y Herramientas***
 
-*** Miguel Montana, Jeferson Hernandez, Yossed Riaño***
+**Miguel Montana, Jeferson Hernandez, Yossed Riaño**
 
 Existen muchos sistemas operativos basados en Linux, cada uno con un objetivo diferente. Algunos buscan estabilidad, otros seguridad, y también los hay que se enfocan en la facilidad de uso o en el rendimiento para juegos. A continuación, se presentan algunos de los más conocidos y utilizados en la actualidad.
 
